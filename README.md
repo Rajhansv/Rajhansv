@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Raaz</h1>
 <h3 align="center">A passionate Cyber Security Expert from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNuZDl0MW00dndhNXFrYXI2eDU1MmxvN2d6M2M0NTF0cGVja2RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.webp">
+<img align="right" alt="coding" width="auto" height="auto" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNuZDl0MW00dndhNXFrYXI2eDU1MmxvN2d6M2M0NTF0cGVja2RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajhansv&label=Profile%20views&color=0e75b6&style=flat" alt="rajhansv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajhansv" alt="rajhansv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amishraaz" target="blank"><img src="https://img.shields.io/twitter/follow/amishraaz?logo=twitter&style=for-the-badge" alt="amishraaz" /></a> </p>
 
